@@ -1,3 +1,3 @@
-# DBMS-for-Exotic-Car-Rental-Platform
-Database Management System for Exotic Car Rental Platform. Documentation + MS SQL Database
+# Database Management System for Exotic Car Rental Platform
 Proposed organization is a car rental business that targets specific categories - exotic and premium cars. Unlike a typical rental car company, this organization does not own or lease cars for further rent out to customers, it only provides a platform that connects independent rental companies with people that are interested in renting those cars. The platform provides real-time availability and prices for all available cars based on customer’s search parameters, manages bookings, takes care of all payments, insurance, accident reports and customer claims. Additionally, extra services are offered: concierge delivery service and chauffeur service.
+
